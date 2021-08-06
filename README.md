@@ -22,8 +22,8 @@ The function should return an estimate of the probability that player 1 will win
 You are allowed to import commonly used statistics and data analysis libraries. You may also use any online resources you want.
 '''
 def predict_outcome(player1, player2):
-# fill in the body of this function
-# example usage:
+### fill in the body of this function
+### example usage:
 arpad = Player('Arpad', 365)
 mark = Player('Mark', 341)
 result = predict_outcome(arpad, mark)
