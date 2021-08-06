@@ -26,5 +26,7 @@ def predict_outcome(player1, player2):
 ### example usage:
 arpad = Player('Arpad', 365)
 mark = Player('Mark', 341)
+
 result = predict_outcome(arpad, mark)
+
 print('The probability that Arpad will beat Mark is:', result)
